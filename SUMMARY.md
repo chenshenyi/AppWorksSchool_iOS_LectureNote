@@ -10,3 +10,4 @@
 ## 其他
 
 - [Discord 學習資源連結整理](Others/Resources.md)
+- [如何參與筆記](Others/HowToContribute.md)

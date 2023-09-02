@@ -4,7 +4,7 @@
 
 - [Command Line Basics <Episode 1-9>](https://www.kodeco.com/4729-command-line-basics)
 - [Beginning Git](https://www.kodeco.com/38840457-beginning-git)
-- [Your First iOS and UIKit App](https://www.kodeco.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
+- [Your First iOS and UIKit App](https://www.kodeco.com/5993-your-first-ios-and-uikit-app)
 - [Programming in Swift: Fundamentals](https://www.kodeco.com/5539282-programming-in-swift-fundamentals)
 
 ## Week2 9/4 - 9/10

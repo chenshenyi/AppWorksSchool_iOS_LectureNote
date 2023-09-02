@@ -5,7 +5,7 @@
 
 ## Week 1
 
-- [1. Command Line Basics](Basic/1.%20Command%20Line%20Basics.md)
+- [1. Command Line Basics](Week1/1.%20Command%20Line%20Basics.md)
 
 ## 其他
 

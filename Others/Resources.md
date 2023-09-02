@@ -2,7 +2,7 @@
 
 ## 其他課程筆記
 
-- [羽的旅程](https://petrichorize.com/)
+- **Jenny** - [羽的旅程](https://petrichorize.com/)
 
 ## Markdown 教學
 

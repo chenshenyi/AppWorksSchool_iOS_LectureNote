@@ -13,6 +13,7 @@
   - markdownlint
   - MdTableEditor
   - Mermaid Markdown Syntax Highlighting
+  - GitHub Copilot - **需訂閱**
 
 ## 操作流程
 
@@ -49,6 +50,7 @@ git config --global user.email "你的 email"
 
 - 教學：[Markdown 語法說明](https://markdown.tw/)
 - 進階者可學習 [mermaid](https://mermaid.js.org/intro/) 繪製流程圖。
+- Icon：[Emoji Mart](https://missiveapp.com/open/emoji-mart)
 
 ### Cheat Sheet
 

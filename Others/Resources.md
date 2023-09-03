@@ -6,7 +6,8 @@
 
 ## Swift
 
-- **Red** - [The 100 Days of Swift](https://www.hackingwithswift.com/100)
+- **Red** - [The 100 Days of Swift - UIKit](https://www.hackingwithswift.com/100) - 語法較舊
+- **Jimmy** - [The 100 Days of Swift - SwiftUI](https://www.hackingwithswift.com/100/swiftui) - 語法較新
 
 ## Git 教學
 

@@ -12,6 +12,7 @@
   - 3-2 Styling(尚未整理)
 - 4 Programming in Swift: Fundamentals
   - [4-1 Core Concepts](Week1/4-1.%20Core%20Concepts.md)
+  - [4-2 Beginning Collections](Week1/4-2.%20Beginning%20Collections.md)
 
 ## 其他
 

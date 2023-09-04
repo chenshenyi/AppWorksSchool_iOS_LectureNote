@@ -10,6 +10,8 @@
 - 3 Your First iOS and UIKit App
   - [3-1 UIKit App and Storyboard](Week1/3-2.%20UIKit%20App%20and%20Storyboard.md)
   - 3-2 Styling(尚未整理)
+- 4 Programming in Swift: Fundamentals
+  - [4-1 Core Concepts](Week1/4-1.%20Core%20Concepts.md)
 
 ## 其他
 

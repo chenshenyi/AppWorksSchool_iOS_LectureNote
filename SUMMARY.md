@@ -15,6 +15,7 @@
   - [4-2 Beginning Collections](Week1/4-2.%20Beginning%20Collections.md)
   - [4-3 Control Flow](Week1/4-3.%20Control%20Flow.md)
   - [4-4 More Collections](Week1/4-4.%20More%20Collections.md)
+  - [4-5 Functions and Named Types](Week1/4-5.%20Functions%20and%20Named%20Types.md)
 
 ## 其他
 

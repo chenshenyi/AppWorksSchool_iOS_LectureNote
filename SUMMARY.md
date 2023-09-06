@@ -14,6 +14,7 @@
   - [4-1 Core Concepts](Week1/4-1.%20Core%20Concepts.md)
   - [4-2 Beginning Collections](Week1/4-2.%20Beginning%20Collections.md)
   - [4-3 Control Flow](Week1/4-3.%20Control%20Flow.md)
+  - [4-4 More Collections](Week1/4-4.%20More%20Collections.md)
 
 ## 其他
 

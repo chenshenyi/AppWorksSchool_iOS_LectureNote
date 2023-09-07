@@ -22,16 +22,16 @@
 
 ## Week4 9/18 - 9/24
 
-- [Beginning iOS Debugging](https://www.kodeco.com/18411703-uikit-animation)
-- [Saving Data in iOS](https://www.kodeco.com/18411703-uikit-animation)
-- [Networking with URLSession](https://www.kodeco.com/18411703-uikit-animation)
-- [Grand Central Dispatch Tutorial](https://www.kodeco.com/18411703-uikit-animation)
-- [Beginning Core Data](https://www.kodeco.com/18411703-uikit-animation)
+- [Beginning iOS Debugging](https://www.kodeco.com/4681-beginning-ios-debugging)
+- [Saving Data in iOS](https://www.kodeco.com/6307-saving-data-in-ios)
+- [Networking with URLSession](https://www.kodeco.com/7476-networking-with-urlsession)
+- [Grand Central Dispatch Tutorial](https://www.kodeco.com/28540615-grand-central-dispatch-tutorial-for-swift-5-part-1-2)
+- [Beginning Core Data](https://www.kodeco.com/7104-beginning-core-data)
 
 ## Optional
 
-- [Self-sizing Table View Cells](https://www.kodeco.com/18411703-uikit-animation)
-- [Swift Generics Tutorial](https://www.kodeco.com/18411703-uikit-animation)
-- [Gesture Recognizers in iOS](https://www.kodeco.com/18411703-uikit-animation)
-- [Xcode Tips and Tricks](https://www.kodeco.com/18411703-uikit-animation)
-- [iOS Unit Testing and UI Testing Tutorial](https://www.kodeco.com/18411703-uikit-animation)
+- [Self-sizing Table View Cells](https://www.kodeco.com/8549-self-sizing-table-view-cells)
+- [Swift Generics Tutorial](https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started)
+- [Gesture Recognizers in iOS](https://www.kodeco.com/9225-gesture-recognizers-in-ios)
+- [Xcode Tips and Tricks](https://www.kodeco.com/3199-xcode-tips-and-tricks)
+- [iOS Unit Testing and UI Testing Tutorial](https://www.kodeco.com/21020457-ios-unit-testing-and-ui-testing-tutorial)
